@@ -1,4 +1,4 @@
-package com.epam.reactiveprogramming.Service;
+package com.epam.reactiveprogramming.service;
 
 import com.epam.reactiveprogramming.exception.SportAlreadyExistException;
 import com.epam.reactiveprogramming.model.Sport;

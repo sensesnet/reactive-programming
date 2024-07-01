@@ -1,6 +1,6 @@
 package com.epam.reactiveprogramming.controller;
 
-import com.epam.reactiveprogramming.Service.SportService;
+import com.epam.reactiveprogramming.service.SportService;
 import com.epam.reactiveprogramming.model.Sport;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
